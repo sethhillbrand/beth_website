@@ -1,0 +1,8 @@
+baseURL = "https://sethhillbrand.github.io/beth_website/"
+title = "Beth — Coaching & Speaking"
+languageCode = "en-us"
+
+[module]
+  [[module.imports]]
+    # Academic (Wowchemy) v5 module path
+    path = "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5"
